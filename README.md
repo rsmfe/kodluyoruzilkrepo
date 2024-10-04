@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Bu repo [kodluyoruz](kodluyoruz.org) egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
+![Cat Image](https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg)
+
 ## Installation
 Oncetlikle projeyi clonelayin. [Clone Link](https://github.com/rsmfe/kodluyoruzilkrepo.git)
 
